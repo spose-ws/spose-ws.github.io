@@ -1,7 +1,4 @@
----
-layout: post
-title:  "Home"
----
+
 
 # The 1st Workshop on Security, Privacy, Organizations, and Systems Engineering (#spose_ws) at ESORICS 2019
 

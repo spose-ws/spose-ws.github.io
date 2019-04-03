@@ -1,7 +1,3 @@
----
-layout: post
-title:  "CfP"
----
 
 # Call for Papers
 
@@ -25,3 +21,10 @@ We particularly welcome papers explicitly translating findings and insights from
 Besides regular (max. 16 pages) and short (max. 8 pages) papers, we also invite practical demonstrations, intermediate reports, and mini-tutorials on respective technologies currently under development. Such contributions should be consciously tailored to inspire more in-depth discussions. Submissions falling under this category should describe the proposed contribution to the workshop in no more than 4 pages and be explicitly marked as such during the submission process.
 
 Authors of accepted papers must guarantee that their papers will be presented at the conference.
+
+Important dates
+* Submission deadline: 14 June
+* Review deadline: 19 July
+* Internal meeting: 24 July
+* Notification to authors: 26 July
+* Camera-ready versions: 16 August
