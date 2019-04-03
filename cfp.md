@@ -15,15 +15,24 @@ Topics of interest include, but are not limited to:
 * Security and privacy technologies for and in unusual organizational settings
 * Engineering methods, frameworks, and assessment approaches for addressing the above subjects in novel ways
 
-We particularly welcome papers explicitly translating findings and insights from organizational and behavioral theory into the concrete design and engineering of technical privacy mechanisms as well as papers evaluating, assessing, or scrutinizing existing security and privacy technologies against actual organizational and behavioral theories and/or givens from the practice. Papers without relation to concrete technologies are, however, not excluded in general.
+We particularly welcome papers explicitly translating findings and insights from organizational and behavioral theory into the concrete design and engineering of technical security and privacy mechanisms as well as papers evaluating, assessing, or scrutinizing existing security and privacy technologies against actual organizational and behavioral theories and/or givens from the practice. Papers without relation to concrete technologies are, however, not excluded in general.
+
+## Types of Papers
 
 Besides regular (max. 16 pages) and short (max. 8 pages) papers, we also invite practical demonstrations, intermediate reports, and mini-tutorials on respective technologies currently under development. Such contributions should be consciously tailored to inspire more in-depth discussions. Submissions falling under this category should describe the proposed contribution to the workshop in no more than 4 pages and be explicitly marked as such during the submission process.
 
-Authors of accepted papers must guarantee that their papers will be presented at the conference.
+Publication opportunities are currently explored. In particular, LNCS proceedings as well as a special issue of an Open Access Journal are discussed.
 
-Important dates
-* Submission deadline: 14 June
-* Review deadline: 19 July
-* Internal meeting: 24 July
-* Notification to authors: 26 July
-* Camera-ready versions: 16 August
+Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author must register.
+
+## Submissions
+
+Submissions must be done via EasyChair (link to follow). The template to be used is also to be defined, depending on the ultimate decision on the publication venue.
+
+## Important dates (might be subject to change, depending on publication constraints)
+
+* Submission deadline: June 14, 2019
+* Review deadline: July 19, 2019
+* Notification to authors: July 26, 2019
+* Camera-ready versions: August 16, 2019
+* Workshop: September 26 or 27, 2019
