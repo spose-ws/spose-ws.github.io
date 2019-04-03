@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+title:       SPOSE-WS
+tagline:     The 1st Workshop on Security, Privacy, Organizations, and Systems Engineering
+
+baseurl:     ""
+paginate:    1
+locale: "en"
