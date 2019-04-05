@@ -8,7 +8,7 @@ Over the past decades, a multitude of security and privacy enhancing technologie
 ## Organizers
 
 * [Frank Pallas](https://www.ise.tu-berlin.de/menue/team/dr_ing_frank_pallas/) (TU Berlin)
-* [Jörg Pohle](https://www.hiig.de/jorg-pohle/) (Humboldt Institute for Internet and Society)
+* [Jörg Pohle](https://www.hiig.de/en/jorg-pohle/) (Humboldt Institute for Internet and Society)
 * [Angela Sasse](https://www.ei.ruhr-uni-bochum.de/fakultaet/personen/sasse/) (Ruhr-Uni Bochum)
 
 ## Program Committee
