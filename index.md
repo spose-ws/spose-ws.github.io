@@ -21,4 +21,5 @@ Over the past decades, a multitude of security and privacy enhancing technologie
 * Daniel Le Métayer (INRIA)
 * Marit Hansen (ULD)
 * Melanie Volkamer (KIT)
+* Max-R. Ulbricht (TU Berlin)
 * ...
