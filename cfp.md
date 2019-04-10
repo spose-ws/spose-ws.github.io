@@ -27,7 +27,7 @@ Authors of accepted papers must guarantee that their papers will be presented at
 
 ## Submissions
 
-Submissions must be done via EasyChair at [https://easychair.org/my/conference.cgi?conf=spose2019](https://easychair.org/my/conference.cgi?conf=spose2019). The template to be used is also to be defined, depending on the ultimate decision on the publication venue.
+Submissions must be done via EasyChair at [https://easychair.org/my/conference.cgi?conf=spose2019](https://easychair.org/my/conference.cgi?conf=spose2019). The template to be used is still to be defined, depending on the ultimate decision on the publication venue.
 
 ## Important dates (might be subject to change, depending on publication constraints)
 
