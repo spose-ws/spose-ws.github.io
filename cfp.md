@@ -21,7 +21,7 @@ We particularly welcome papers explicitly translating findings and insights from
 
 Besides regular (max. 16 pages) and short (max. 8 pages) papers, we also invite practical demonstrations, intermediate reports, and mini-tutorials on respective technologies currently under development. Such contributions should be consciously tailored to inspire more in-depth discussions. Submissions falling under this category should describe the proposed contribution to the workshop in no more than 4 pages and be explicitly marked as such during the submission process.
 
-Publication opportunities are currently explored. In particular, LNCS proceedings as well as a special issue of an Open Access Journal are discussed.
+Accepted papers will be published in a joint LNCS proceedings together with two other ESORICS workshops. Additional publication opportunities for extended papers in a special issue of an Open Access Journal are discussed.
 
 Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author must register.
 
