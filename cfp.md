@@ -31,7 +31,7 @@ Submissions must be done via EasyChair at [https://easychair.org/conferences/?co
 
 ## Important dates (might be subject to change, depending on publication constraints)
 
-* Submission deadline: ~~June 14, 2019~~ extended to June 28, 2019 (23:59 CEST)
+* Submission deadline: ~~June 14, 2019~~ **extended to June 28, 2019 (23:59 CEST)**
 * Review deadline: July 19, 2019
 * Notification to authors: July 26, 2019
 * Camera-ready versions: August 16, 2019
