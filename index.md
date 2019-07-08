@@ -11,7 +11,7 @@ Over the past decades, a multitude of security and privacy enhancing technologie
 * [Jörg Pohle](https://www.hiig.de/en/jorg-pohle/) (Humboldt Institute for Internet and Society)
 * [Angela Sasse](https://www.ei.ruhr-uni-bochum.de/fakultaet/personen/sasse/) (Ruhr-Uni Bochum)
 
-## Program Committee (continuously growing)
+## Program Committee
 
 * Jatinder Singh (Cambridge University)
 * Seda Gürses (KU Leuven)
@@ -21,5 +21,5 @@ Over the past decades, a multitude of security and privacy enhancing technologie
 * Daniel Le Métayer (INRIA)
 * Marit Hansen (ULD)
 * Melanie Volkamer (KIT)
+* Ingolf Becker  (UCL)
 * Max-R. Ulbricht (TU Berlin)
-* ...
