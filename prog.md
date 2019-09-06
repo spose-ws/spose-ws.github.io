@@ -1,7 +1,7 @@
 
 # Program
 
-SPOSE will be held together with the workshop on Security and Privacy Requirements Engineering (SECPRE) and the workshop on Security of Industrial Control Systems and of Cyber-Physical Systems (CyberCPS). SPOSE-sessions will take place on Thu, Sept. 26 in room 005. The SPOSE-part of the program is as follows:
+SPOSE will be held together with the workshop on [Security and Privacy Requirements Engineering (SECPRE)](http://samosweb.aegean.gr/secpre2019/) and the [Workshop on Security of Industrial Control Systems and of Cyber-Physical Systems (CyberICPS)](https://www.ds.unipi.gr/cybericps2019/). SPOSE-sessions will take place on Thu, Sept. 26 in room 005. The SPOSE-part of the program is as follows:
 
 ## Registration -- 08:30-08:45
 
@@ -30,4 +30,4 @@ Chair: Frank Pallas, Technische Universität Berlin, Germany
 * 14:00-14:30: **An Insight into Decisive Factors in Cloud Provider Selection with a Focus on Security** -- Sebastian Pape and Jelena Stankovic
 * 14:30-15:00: **Shaping Digital Identities in Social Networks: Data Elements and the Role of Privacy Concerns** -- Thanos Papaioannou, Aggeliki Tsohou and Maria Karyda (first paper of SECPRE)
 
-## Further sessions of SECPRE and CyberCPS...
+## Further sessions of [SECPRE](http://samosweb.aegean.gr/secpre2019/) and [CyberICPS](https://www.ds.unipi.gr/cybericps2019/)...
