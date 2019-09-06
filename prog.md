@@ -1,7 +1,7 @@
 
 # Program
 
-SPOSE will be held together with the workshop on Security and Privacy Requirements Engineering (SECPRE) and the workshop on Security of Industrial Control Systems and of Cyber-Physical Systems (CyberCPS). SPOSE-sessions will take place on Sept. 26 in room 005. The SPOSE-part of the program is as follows:
+SPOSE will be held together with the workshop on Security and Privacy Requirements Engineering (SECPRE) and the workshop on Security of Industrial Control Systems and of Cyber-Physical Systems (CyberCPS). SPOSE-sessions will take place on Thu, Sept. 26 in room 005. The SPOSE-part of the program is as follows:
 
 ## Registration -- 08:30-08:45
 
