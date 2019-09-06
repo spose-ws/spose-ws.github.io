@@ -22,7 +22,7 @@ Chair: Jörg Pohle, Alexander von Humboldt Institute for Internet and Society (H
 
 ## Lunch Break -- 12:00-13:30
 
-## Accepted Papers Session 2: Decision making and Automation in the Context of Security & Privacy -- 13:30-15:00
+## Accepted Papers Session 2: Decisionmaking and Automation in the Context of Security & Privacy -- 13:30-15:00
 
 Chair: Frank Pallas, Technische Universität Berlin, Germany
 
