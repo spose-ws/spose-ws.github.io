@@ -15,7 +15,7 @@ Chair:  Angela Sasse - Ruhr-Universität Bochum, Germany
 
 ## Accepted Papers Session 1: Human-Organizational Issues of Security and Privacy -- 11:00-12:00
 
-Chair: Jörg Pohle, Alexander von Humboldt Institute for Internet and Society (HIIG), Germany / Frank Pallas, Technische Universität Berlin, Germany
+Chair: Frank Pallas, Technische Universität Berlin, Germany
 
 * 11:00-11:30: **On the trade-off between privacy and utility in mobile services: A qualitative study** -- Yang Liu and Andrew Simpson
 * 11:30-12:00: **Discrete Event Simulation of Jail Operations in Pursuit of Organizational Culture Change** -- Hugh Lester and Martin Miller
