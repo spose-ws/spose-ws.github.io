@@ -31,3 +31,5 @@ Chair: Frank Pallas, Technische Universität Berlin, Germany
 * 14:30-15:00: **Shaping Digital Identities in Social Networks: Data Elements and the Role of Privacy Concerns** -- Thanos Papaioannou, Aggeliki Tsohou and Maria Karyda (first paper of SECPRE)
 
 ## Further sessions of [SECPRE](http://samosweb.aegean.gr/secpre2019/) and [CyberICPS](https://www.ds.unipi.gr/cybericps2019/)...
+
+Workshop organization was partially supported by the H2020 project [DITAS](https://www.ditas-project.eu/)

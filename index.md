@@ -23,3 +23,5 @@ Over the past decades, a multitude of security and privacy enhancing technologie
 * Melanie Volkamer (KIT)
 * Ingolf Becker  (UCL)
 * Max-R. Ulbricht (TU Berlin)
+
+Workshop organization was partially supported by the H2020 project [DITAS](https://www.ditas-project.eu/)
