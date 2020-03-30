@@ -15,15 +15,6 @@ For more details, see the [CfP](/cfp)
 
 ## Program Committee (to be confirmed)
 
-* Jatinder Singh (Cambridge University)
-* Seda Gürses (KU Leuven)
-* Ronald Leenes (TILT)
-* Burkhard Schäfer (Edinburgh University)
-* Heleen Janssen (Cambridge University)
-* Daniel Le Métayer (INRIA)
-* Marit Hansen (ULD)
-* Melanie Volkamer (KIT)
-* Ingolf Becker  (UCL)
-* Max-R. Ulbricht (TU Berlin)
+... in preparation...
 
 Workshop organization is partially supported by the project [DaSKITA](https://www.ise.tu-berlin.de/menue/projekte/daskita/), funded by the German [Ministry of Justice and for Consumer Protection](https://www.bmjv.de)
