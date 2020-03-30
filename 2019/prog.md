@@ -1,5 +1,5 @@
 
-# Program
+# 2019 - Program
 
 SPOSE will be held together with the [Workshop on Security and Privacy Requirements Engineering (SECPRE)](http://samosweb.aegean.gr/secpre2019/) and the [Workshop on Security of Industrial Control Systems and of Cyber-Physical Systems (CyberICPS)](https://www.ds.unipi.gr/cybericps2019/). SPOSE-sessions will take place on Thu, Sept. 26 in room 005. The SPOSE-part of the program is as follows:
 
