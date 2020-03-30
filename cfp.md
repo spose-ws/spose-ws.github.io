@@ -30,11 +30,11 @@ Authors of accepted papers must guarantee that their papers will be presented at
 
 ## Submissions
 
-An Easychair link will be posted soon. Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs).
+Submissions must be done via Easychair at [https://easychair.org/conferences/?conf=spose2020](https://easychair.org/conferences/?conf=spose2020). Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) and in **anonymized / blinded** form.
 
 ## Important dates (might be subject to change, depending on publication constraints)
 
-* Submission deadline: tbd
+* Submission deadline: tbd (but no earlier than May 31, 2020)
 * Review deadline: tbd
 * Notification to authors: tbd
 * Camera-ready versions: tbd
