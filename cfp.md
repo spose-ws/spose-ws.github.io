@@ -30,7 +30,9 @@ Authors of accepted papers must guarantee that their papers will be presented at
 
 ## Submissions
 
-Submissions must be done via Easychair at [https://easychair.org/conferences/?conf=spose2020](https://easychair.org/conferences/?conf=spose2020). Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) and in **anonymized / blinded** form.
+Submissions must be done via Easychair at [https://easychair.org/conferences/?conf=spose2020](https://easychair.org/conferences/?conf=spose2020) - see also the respective CfP page there: [https://easychair.org/cfp/SPOSE2020](https://easychair.org/cfp/SPOSE2020)
+
+Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) and in **anonymized / blinded** form.
 
 ## Important dates (might be subject to change, depending on publication constraints)
 
