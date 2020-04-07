@@ -13,8 +13,19 @@ For more details, see the [CfP](/cfp)
 * [Jörg Pohle](https://www.hiig.de/en/jorg-pohle/) (Humboldt Institute for Internet and Society)
 * [Angela Sasse](https://www.ei.ruhr-uni-bochum.de/fakultaet/personen/sasse/) (Ruhr-Uni Bochum)
 
-## Program Committee (to be confirmed)
+## Program Committee (continuously growing)
 
-... in preparation...
+## Program Committee
+
+* Jatinder Singh (Cambridge University)
+* Seda Gürses (TU Delft)
+* Burkhard Schäfer (Edinburgh University)
+* Heleen Janssen (Cambridge University)
+* Daniel Le Métayer (INRIA)
+* Marit Hansen (ULD)
+* Melanie Volkamer (KIT)
+* Max-R. Ulbricht (TU Berlin)
+* Sebastian Pape (Goethe University Frankfurt/Main)
+* ...
 
 Workshop organization is partially supported by the project [DaSKITA](https://www.ise.tu-berlin.de/menue/projekte/daskita/), funded by the German [Ministry of Justice and for Consumer Protection](https://www.bmjv.de)
