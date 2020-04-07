@@ -15,8 +15,6 @@ For more details, see the [CfP](/cfp)
 
 ## Program Committee (continuously growing)
 
-## Program Committee
-
 * Jatinder Singh (Cambridge University)
 * Seda Gürses (TU Delft)
 * Burkhard Schäfer (Edinburgh University)
