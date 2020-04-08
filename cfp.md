@@ -36,8 +36,9 @@ Submissions must be formatted according to the [LNCS-Template](http://www.spring
 
 ## Important dates (might be subject to change, depending on publication constraints)
 
-* Submission deadline: tbd (but no earlier than May 31, 2020)
+* Submission deadline: June 21, 2020
 * Review deadline: tbd
-* Notification to authors: tbd
-* Camera-ready versions: tbd
+* Notification to authors: July 26, 2020
+* Camera-ready versions: August 2, 2020
 * Workshop: September 18, 2020
+* "Ultimate" versions with final amendments from the workshop (post-proceedings): September 25, 2020
