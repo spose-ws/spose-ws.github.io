@@ -41,4 +41,4 @@ Submissions must be formatted according to the [LNCS-Template](http://www.spring
 * Notification to authors: July 26, 2020
 * Camera-ready versions: August 2, 2020
 * Workshop: September 18, 2020
-* "Ultimate" versions with final amendments from the workshop (post-proceedings): September 25, 2020
+* "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) September 25, 2020
