@@ -1,3 +1,3 @@
 # Venue
 
-SPOSE 2020 will take place in conjunction with the [European Symposium on Research in Computer Security (ESORICS) 2020](https://www.surrey.ac.uk/esorics-2020). For venue and travel information, see the respective [ESORICS page](https://www.surrey.ac.uk/esorics-2020/plan-your-trip)
+After assessment of the COVID-19 Pandemic, the ESORICS 2020 Organizing Committee has made the decision to move the conference and all associated workshops to an online format. Arrangements for the virtual format are being made and we will post updates as they are announced. This new format will not affect our proceedings, which will be published as Springer LNCS proceedings.
