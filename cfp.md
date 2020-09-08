@@ -1,5 +1,7 @@
 
-*After assessment of the COVID-19 Pandemic, the ESORICS 2020 Organizing Committee has made the decision to move the conference and all associated workshops to an online format. Arrangements for the virtual format are being made and we will post updates as they are announced. This new format will not affect our proceedings, which will be published as Springer LNCS proceedings.*
+*After assessment of the COVID-19 Pandemic, the ESORICS 2020 Organizing Committee has made the decision to move the conference and all associated workshops to an online format. Presentations are given as live streams available to all registered participants. A short "abstract video" is available for each talk.*
+
+*The new format will not affect our proceedings, which will be published as Springer LNCS proceedings.*
 
 # Call for Papers
 
@@ -42,5 +44,5 @@ Submissions must be formatted according to the [LNCS-Template](http://www.spring
 * Review deadline: tbd
 * Notification to authors: ~~July 26, 2020~~ **August 2, 2020**
 * Camera-ready versions: ~~August 2, 2020~~ **August 9, 2020**
-* Workshop: September 18, 2020
+* Workshop: September 18, 2020 -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) September 25, 2020
