@@ -3,9 +3,9 @@
 
 *The new format will not affect our proceedings, which will be published as Springer LNCS proceedings.*
 
-# Program
+# Program (Friday, Sept. 18)
 
-SPOSE 2020 will be held in conjunction with [ESORICS 2020](https://www.surrey.ac.uk/esorics-2020). SPOSE-sessions will presumably take place on Friday, Sept. 18. Further program information will be posted as soon as they are fixed.
+SPOSE 2020 will be held in conjunction with [ESORICS 2020](https://www.surrey.ac.uk/esorics-2020). SPOSE-sessions will take place on Friday, Sept. 18.
 
 ## Welcome -- 09:00-09:15
 
