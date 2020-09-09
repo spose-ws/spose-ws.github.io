@@ -3,6 +3,8 @@
 
 *The new format will not affect our proceedings, which will be published as Springer LNCS proceedings.*
 
+**All times indicated below are British summer time (BST). A slot indicated for 09:00 will thus start at 10:00 in middle Europe (MEST), for example**
+
 # Program (Friday, Sept. 18)
 
 SPOSE 2020 will be held in conjunction with [ESORICS 2020](https://www.surrey.ac.uk/esorics-2020). SPOSE-sessions will take place on Friday, Sept. 18.
