@@ -5,7 +5,7 @@
 
 **All times indicated below are British summer time (BST). A slot indicated for 09:00 will thus start at 10:00 in middle Europe (MEST), for example**
 
-**Zoom link: [https://surrey-ac.zoom.us/j/97874221590](https://surrey-ac.zoom.us/j/97874221590)
+**Zoom link: [https://surrey-ac.zoom.us/j/97874221590](https://surrey-ac.zoom.us/j/97874221590)**
 
 # Program (Friday, Sept. 18)
 
