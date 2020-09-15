@@ -21,7 +21,7 @@ Workshop Chairs: Angela Sasse, Frank Pallas, Jörg Pohle
 
 Many governments "responsibilize" their citizens when it comes to the cyber risk. This means that they provide advice and then leave individuals to face the consequences if they do not, or can not, follow the advice. I will talk about the consequences of such cyber responsibilization and its advisability. I will conclude by exploring more effective ways for governments and organizations to support individuals in managing their cyber risks.
 
-Accepted Papers:
+**Accepted Papers:**
 
 * 09:45-10:15: **Nothing Standard About It: An Analysis of Minimum Security Standards in Organizations** ([abstract video](https://www.youtube.com/watch?v=Mlul_uXXaoU)) -- Jake Weidman, Igor Bilogrevic, and Jens Grossklags
 * 10:15-10:45: **The Bigger Picture: Approaches to Inter-Organizational Data Protection Impact Assessment** ([abstract video](https://youtu.be/SP-nih32yhE)) -- Dimitri Van Landuyt, Laurens Sion, Pierre Dewitte, and Wouter Joosen
@@ -30,7 +30,7 @@ Accepted Papers:
 
 ## Accepted Papers Session 2 -- 11:00-12:00
 
-Accepted papers:
+**Accepted papers:**
 
 * 11:00-11:30: **Systematic Scenario Creation for Serious Security-Awareness Games** ([abstract video](https://youtu.be/cnyHYr-xHMo)) -- Vera Hazilov and Sebastian Pape
 * 11:30-12:00: **Analysing Simulated Phishing Campaigns for Staff** ([abstract video will follow]()) -- Melanie Volkamer and Martina Angela Sasse
