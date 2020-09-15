@@ -17,7 +17,9 @@ Workshop Chairs: Angela Sasse, Frank Pallas, Jörg Pohle
 
 ## Keynote & Accepted Papers Session 1 -- 09:15-10:45
 
-09:15 - 09:45: **Keynote: Responsibilization in Cyber Security** -- Karen Renaud, Abertay University, Dundee, UK
+09:15 - 09:45: **Keynote: Putting Cyber Responsibilization under the Microscope** -- Karen Renaud, Abertay University, Dundee, UK
+
+Many governments "responsibilize" their citizens when it comes to the cyber risk. This means that they provide advice and then leave individuals to face the consequences if they do not, or can not, follow the advice. I will talk about the consequences of such cyber responsibilization and its advisability. I will conclude by exploring more effective ways for governments and organizations to support individuals in managing their cyber risks.
 
 Accepted Papers:
 
