@@ -33,6 +33,6 @@ Many governments "responsibilize" their citizens when it comes to the cyber risk
 **Accepted papers:**
 
 * 11:00-11:30: **Systematic Scenario Creation for Serious Security-Awareness Games** ([abstract video](https://youtu.be/cnyHYr-xHMo)) -- Vera Hazilov and Sebastian Pape
-* 11:30-12:00: **Analysing Simulated Phishing Campaigns for Staff** ([abstract video will follow]()) -- Melanie Volkamer and Martina Angela Sasse
+* 11:30-12:00: **Analysing Simulated Phishing Campaigns for Staff** ([abstract video will follow]()) -- Melanie Volkamer, Martina Angela Sasse, and Franziska Boehm
 
 Workshop organization is partially supported by the project [DaSKITA](https://www.ise.tu-berlin.de/menue/projekte/daskita/), funded by the German [Ministry of Justice and for Consumer Protection](https://www.bmjv.de)
