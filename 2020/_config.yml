@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+title:       The 2nd Workshop on Security, Privacy, Organizations, and Systems Engineering
+tagline:     "#spose_ws"
+
+baseurl:     ""
+paginate:    1
+locale: "en"
