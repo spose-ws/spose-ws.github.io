@@ -10,25 +10,26 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 
 ## Organizers
 
-* [Frank Pallas](https://www.ise.tu-berlin.de/menue/team/dr_ing_frank_pallas/parameter/en/) (TU Berlin)
+* [Frank Pallas](https://www.ise.tu-berlin.de/fp) (TU Berlin)
 * [Jörg Pohle](https://www.hiig.de/en/jorg-pohle/) (Humboldt Institute for Internet and Society)
 * [Angela Sasse](https://www.ei.ruhr-uni-bochum.de/fakultaet/personen/sasse/) (Ruhr-Uni Bochum)
 
-## Program Committee
+## Program Committee (to be extended further)
 
-* Melanie Volkamer (KIT)
-* Marit Hansen (ULD)
-* Seda Gürses (TU Delft)
-* Jatinder Singh (Cambridge University)
-* Burkhard Schäfer (Edinburgh University)
-* Heleen Janssen (Cambridge University)
-* Zinaida Benenson (Friedrich-Alexander University Erlangen-Nuremberg)
-* Gabriele Lenzini (University of Luxembourg)
-* Simon Parkin (UCL)
 * Athena Bourka (ENISA)
-* Heleen Janssen (Cambridge University)
-* Max-R. Ulbricht (TU Berlin)
+* Seda Gürses (TU Delft)
+* Marit Hansen (ULD)
+* Heleen Janssen (Cambridge University / University of Amsterdam)
+* Gabriele Lenzini (University of Luxembourg)
 * Sebastian Pape (Goethe University Frankfurt/Main)
+* Simon Parkin (TU Delft)
+* Karen Renaud (University of Strathclyde)
+* Burkhard Schäfer (Edinburgh University)
+* Andrew Simpson (University of Oxford)
+* Jatinder Singh (Cambridge University)
+* Max-R. Ulbricht (TU Berlin)
 * Tobias Urban (if(is))
+* Melanie Volkamer (KIT)
+
 
 <!-- Workshop organization is partially supported by the project [DaSKITA](https://www.ise.tu-berlin.de/menue/projekte/daskita/), funded by the German [Ministry of Justice and for Consumer Protection](https://www.bmjv.de) -->
