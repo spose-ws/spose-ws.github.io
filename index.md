@@ -17,6 +17,7 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 ## Program Committee (preliminary, to be extended further)
 
 * Athena Bourka (ENISA)
+* Matthias Fassl (CISPA)
 * Seda Gürses (TU Delft)
 * Marit Hansen (ULD)
 * Heleen Janssen (Cambridge University / University of Amsterdam)
