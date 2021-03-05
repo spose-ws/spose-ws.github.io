@@ -1,13 +1,12 @@
-*After assessment of the COVID-19 Pandemic, the ESORICS 2020 Organizing Committee has made the decision to move the conference and all associated workshops to an online format. Presentations are given as live streams available to all registered participants. A short "abstract video" is available for each talk.*
+*At the moment, ESORICS 2021 is planned to be held in a hybrid or purely virtual form. As soon as things clarify further, it will be announced here*
 
-*The new format will not affect our proceedings, which will be published as Springer LNCS proceedings.*
 
 # About the Workshop
 
 
 Over the past decades, a multitude of security and privacy enhancing technologies has been developed and brought to considerable maturity. However, the design and engineering of such technologies often ignores the organizational context that respective technologies are to be applied in. This workshop aims to enrich engineering practice in the field of security and privacy with solid insights from organizational and behavioral sciences to pave the way for technical security and privacy mechanisms and systems that match organizational needs and givens better than current ones. We welcome technical contributions that soundly reflect insights from organizational and behavioral sciences as well as contributions from non-technical domains providing (empirical and theoretical) insights that help improve technical security and privacy mechanisms.
 
-For more details, see the [CfP](/cfp) and [program](/prog) 
+For more details, see the [CfP](/cfp) and [program](/prog)
 
 ## Organizers
 

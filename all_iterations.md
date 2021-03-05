@@ -3,7 +3,7 @@
 All iterations (current and previous) of the SPOSE Workshop are listed here
 
 ## 2021
-[The 3rd Workshop on Security, Privacy, Organizations, and Systems Engineering (SPOSE 2021)](https://spose-ws.github.io/) will take place virtually in conjunction with [ESORICS 2021](https://esorics2021.athene-center.de/) (originally planned for Darmstadt, Germany) in October 2021
+[The 3rd Workshop on Security, Privacy, Organizations, and Systems Engineering (SPOSE 2021)](https://spose-ws.github.io/) will take place in a hybrid or purely virtual form in conjunction with [ESORICS 2021](https://esorics2021.athene-center.de/) (originally planned for Darmstadt, Germany) in October 2021
 
 * [Call for Papers](https://spose-ws.github.io/cfp)
 

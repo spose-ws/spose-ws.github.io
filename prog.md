@@ -1,7 +1,5 @@
 
-*After assessment of the COVID-19 Pandemic, the ESORICS 2020 Organizing Committee has made the decision to move the conference and all associated workshops to an online format. Presentations are given as live streams available to all registered participants. A short "abstract video" is available for each talk.*
-
-*The new format will not affect our proceedings, which will be published as Springer LNCS proceedings.*
+*At the moment, ESORICS 2021 is planned to be held in a hybrid or purely virtual form. As soon as things clarify further, it will be announced here*
 
 **All times indicated below are British summer time (BST). A slot indicated for 09:00 will thus start at 10:00 in middle Europe (MEST), for example**
 
