@@ -14,7 +14,7 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 * [Jörg Pohle](https://www.hiig.de/en/jorg-pohle/) (Humboldt Institute for Internet and Society)
 * [Angela Sasse](https://www.ei.ruhr-uni-bochum.de/fakultaet/personen/sasse/) (Ruhr-Uni Bochum)
 
-## Program Committee (to be extended further)
+## Program Committee (preliminary, to be extended further)
 
 * Athena Bourka (ENISA)
 * Seda Gürses (TU Delft)
