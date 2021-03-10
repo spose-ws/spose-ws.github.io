@@ -17,6 +17,7 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 ## Program Committee (preliminary, to be extended further)
 
 * Athena Bourka (ENISA)
+* Adrian Dabrowski (University of California, Irvine)
 * Matthias Fassl (CISPA)
 * Lea Gröber (CISPA)
 * Seda Gürses (TU Delft)
