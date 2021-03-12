@@ -32,7 +32,7 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 * Andrew Simpson (University of Oxford)
 * Jatinder Singh (Cambridge University)
 * Max-R. Ulbricht (TU Berlin)
-* Tobias Urban (if(is))
+* Tobias Urban (Institute for Internet Security – if(is) and secunet)
 * Melanie Volkamer (KIT)
 
 
