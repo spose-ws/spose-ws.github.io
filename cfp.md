@@ -46,7 +46,7 @@ Submissions must be formatted according to the [LNCS-Template](http://www.spring
 ## Important dates (might be subject to change, depending on publication constraints)
 
 * Submission deadline: July 16, 2021
-* Notification to authors: Augist 20, 2021
+* Notification to authors: August 20, 2021
 * Pre-workshop final/cam-ready versions: September 10, 2021
 * Workshop: early October -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) October 15, 2021
