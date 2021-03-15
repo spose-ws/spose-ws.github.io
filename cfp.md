@@ -35,7 +35,7 @@ Authors of accepted papers must guarantee that their papers will be presented at
 
 ## Submissions
 
-Submissions will be done via Easychair. A submission link will follow as soon as final things are clarified.
+Submissions must be done via Easychair at [https://easychair.org/my/conference?conf=spose2021](https://easychair.org/my/conference?conf=spose2021)
 
 Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) and in **anonymized / blinded** form.
 
