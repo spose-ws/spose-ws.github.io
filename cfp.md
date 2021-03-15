@@ -43,7 +43,7 @@ Submissions must be formatted according to the [LNCS-Template](http://www.spring
 
 Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) and in **anonymized / blinded** form.  -->
 
-## Important dates (might be subject to change, depending on publication constraints)
+## Important dates
 
 * Submission deadline: July 16, 2021
 * Notification to authors: August 20, 2021
