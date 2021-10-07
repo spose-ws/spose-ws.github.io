@@ -4,7 +4,7 @@
 **All times indicated below are Central European Summer Time (CEST). A slot indicated for 12:30 will thus start at 11:30 in Britain (BST), and 06:30 in New York (EDT) for example**
 
 <!--**Zoom link: [https://surrey-ac.zoom.us/j/97874221590](https://surrey-ac.zoom.us/j/97874221590)** -->
-**Zoom link: tba**
+**All Zoom links, videos, etc. are available [at the conference portal](https://www.esorics2021.org/program/)**
 
 # Program (Friday, Oct. 08) 
 
