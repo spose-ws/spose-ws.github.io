@@ -45,8 +45,8 @@ Submissions must be formatted according to the [LNCS-Template](http://www.spring
 ## Important Dates
 
 * Submission deadline (tentative): **June 24, 2022**
-* Notification to authors: **August 03, 2022**
-* Pre-workshop final/cam-ready versions: **September 09, 2022**
+* Notification to authors (tentative): **August 03, 2022**
+* Pre-workshop final/cam-ready versions (tentative): **September 09, 2022**
 * Workshop: September 26 or 30, 2022 -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) October 14, 2022
 
