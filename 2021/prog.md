@@ -1,5 +1,5 @@
 
-*In line with ESORICS, SPOSE 2021 was be held in a purely virtual form. See also the [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
+*In line with ESORICS, SPOSE 2021 was held in a purely virtual form. See also the [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
 
 **All times indicated below are Central European Summer Time (CEST). A slot indicated for 12:30 will thus start at 11:30 in Britain (BST), and 06:30 in New York (EDT) for example**
 
