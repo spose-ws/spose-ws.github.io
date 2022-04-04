@@ -15,27 +15,24 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 
 ## Program Committee (preliminary, to be extended further)
 
-... to be announced...
-
-<!-- nnn
+* Zinaida Benenson (FAU Erlangen-Nürnberg)
 * Athena Bourka (ENISA)
-* Adrian Dabrowski (University of California, Irvine)
 * Matthias Fassl (CISPA)
+* Michael Friedewald (Fraunhofer ISI)
 * Lea Gröber (CISPA)
-* Seda Gürses (TU Delft)
 * Marit Hansen (ULD)
 * Heleen Janssen (Cambridge University / University of Amsterdam)
+* Annette Kluge (RU Bochum)
 * Gabriele Lenzini (University of Luxembourg)
+* Peter Mayer (KIT)
 * Sebastian Pape (Goethe University Frankfurt/Main)
 * Simon Parkin (TU Delft)
-* Katharina Pfeffer (SBA Research)
 * Karen Renaud (University of Strathclyde)
 * Burkhard Schäfer (Edinburgh University)
 * Andrew Simpson (University of Oxford)
 * Jatinder Singh (Cambridge University)
 * Max-R. Ulbricht (TU Berlin)
 * Tobias Urban (Institute for Internet Security – if(is) and secunet)
-* Melanie Volkamer (KIT)
--->
+* Melanie Volkamer (KIT) 
 
 <!-- Workshop organization is partially supported by the project [DaSKITA](https://www.ise.tu-berlin.de/menue/projekte/daskita/), funded by the German [Ministry of Justice and for Consumer Protection](https://www.bmjv.de) -->
