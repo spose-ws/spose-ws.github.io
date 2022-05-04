@@ -26,27 +26,20 @@ Accepted papers are planned be published in a joint LNCS proceedings together wi
 
 Besides regular (max. 18 pages) and short (max. 8 pages) papers, we also invite practical demonstrations, intermediate reports, and mini-tutorials on respective technologies currently under development. Such contributions should be consciously tailored to inspire more in-depth discussions. Submissions falling under this category should describe the proposed contribution to the workshop in no more than 6 pages and be explicitly marked as such during the submission process.
 
-Submissions must follow the [original LNCS format](http://www.springeronline.com/lncs) (also available as an [Overleaf-template](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)) with a page limit of 16 pages (incl. references) for full papers, 8 pages (incl. references) for short papers, and 6 pages (incl. references) for demos, mini-tutorials, etc. These page limits exclude possible appendices. Submissions must be submitted in **anonymized / blinded** form.
-
 Authors of accepted papers must guarantee that their papers will be presented at the workshop. At least one author must register.
 
 ## Submissions
 
-<!-- Submissions must be done via Easychair at [https://easychair.org/my/conference?conf=spose2021](https://easychair.org/my/conference?conf=spose2021) -->
+**Submissions must be made via Easychair at [https://easychair.org/conferences/?conf=spose2022](https://easychair.org/conferences/?conf=spose2022)**
 
-Easychair-link to be provided soon.
+Submissions must follow the [original LNCS format](http://www.springeronline.com/lncs) (also available as an [Overleaf-template](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)) with a page limit of 16 pages (incl. references) for full papers, 8 pages (incl. references) for short papers, and 6 pages (incl. references) for demos, mini-tutorials, etc. These page limits exclude possible appendices. Submissions must be submitted in **anonymized / blinded** form.
 
-Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) (also available as an [Overleaf-template](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)) and in **anonymized / blinded** form.
-
-<!-- Submissions must be done via Easychair at [https://easychair.org/conferences/?conf=spose2020](https://easychair.org/conferences/?conf=spose2020) - see also the respective CfP page there: [https://easychair.org/cfp/SPOSE2020](https://easychair.org/cfp/SPOSE2020)
-
-Submissions must be formatted according to the [LNCS-Template](http://www.springeronline.com/lncs) and in **anonymized / blinded** form.  -->
 
 ## Important Dates
 
-* Submission deadline (tentative): **June 24, 2022**
-* Notification to authors (tentative): **August 03, 2022**
-* Pre-workshop final/cam-ready versions (tentative): **September 09, 2022**
+* Submission deadline: **June 24, 2022**
+* Notification to authors: **August 03, 2022**
+* Pre-workshop final/cam-ready versions: **September 09, 2022**
 * Workshop: September 26 or 30, 2022 -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) October 14, 2022
 
