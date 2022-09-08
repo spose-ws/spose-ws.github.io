@@ -50,3 +50,5 @@ Submissions must follow the [original LNCS format](http://www.springeronline.com
 * Camera-ready versions: ~~August 2, 2020~~ **August 9, 2020**
 * Workshop: September 18, 2020 -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) September 25, 2020 -->
+
+SPOSE is proudly supported by [CASA - Cyber-Security in the Age of Large-Scale Adversaries](https://casa.rub.de/).

@@ -37,4 +37,7 @@ For more details, see the [CfP](/cfp) and [program](/prog)
 * Tobias Urban (Institute for Internet Security – if(is) and secunet)
 * Melanie Volkamer (KIT)
 
+
+SPOSE is proudly supported by [CASA - Cyber-Security in the Age of Large-Scale Adversaries](https://casa.rub.de/).
+
 <!-- Workshop organization is partially supported by the project [DaSKITA](https://www.ise.tu-berlin.de/menue/projekte/daskita/), funded by the German [Ministry of Justice and for Consumer Protection](https://www.bmjv.de) -->
