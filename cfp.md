@@ -40,7 +40,7 @@ Submissions must follow the [original LNCS format](http://www.springeronline.com
 * Submission deadline: ~~June 24~~ **extended to July 11, 2022 (23:59 CEST)**
 * Notification to authors: **August 03, 2022**
 * Pre-workshop final/cam-ready versions: **September 09, 2022**
-* Workshop: September 26 or 30, 2022 -- see [program](/prog)
+* Workshop: September 30, 2022 -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) October 14, 2022
 
 <!--
