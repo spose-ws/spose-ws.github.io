@@ -3,7 +3,7 @@
 All iterations (current and previous) of the SPOSE Workshop are listed here
 
 ## 2022
-[The 4th Workshop on Security, Privacy, Organizations, and Systems Engineering (SPOSE 2022)](https://spose-ws.github.io/) will take place (hopefully in presence) in conjunction with [ESORICS 2022](https://esorics2022.compute.dtu.dk/) in Copenhagen, Denmark on Sept. 26 or 30. 
+[The 4th Workshop on Security, Privacy, Organizations, and Systems Engineering (SPOSE 2022)](https://spose-ws.github.io/) will take place (hopefully in presence) in conjunction with [ESORICS 2022](https://esorics2022.compute.dtu.dk/) in Copenhagen, Denmark on Sept. 26 or 30.
 
 * [Call for Papers](https://spose-ws.github.io/cfp)
 
@@ -26,3 +26,9 @@ All iterations (current and previous) of the SPOSE Workshop are listed here
 
 * [Program](https://spose-ws.github.io/2019/prog)
 * [Proceedings on Springerlink](https://www.springer.com/gp/book/9783030420475)
+
+---
+
+![CASA logo](casa-logo.png)
+
+SPOSE is proudly supported by [CASA - Cyber-Security in the Age of Large-Scale Adversaries](https://casa.rub.de/).

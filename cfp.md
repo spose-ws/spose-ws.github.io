@@ -51,4 +51,8 @@ Submissions must follow the [original LNCS format](http://www.springeronline.com
 * Workshop: September 18, 2020 -- see [program](/prog)
 * "Ultimate" versions with final amendments from the workshop (post-proceedings): (no earlier than) September 25, 2020 -->
 
+---
+
+![CASA logo](casa-logo.png)
+
 SPOSE is proudly supported by [CASA - Cyber-Security in the Age of Large-Scale Adversaries](https://casa.rub.de/).
