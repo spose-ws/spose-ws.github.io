@@ -7,4 +7,6 @@ Program details will follow soon.
 
 Workshop Chairs: Angela Sasse, Frank Pallas, Jörg Pohle
 
-SPOSE is proudly supported by [CASA - Cyber-Security in the Age of Large-Scale Adversaries](https://casa.rub.de/) ![CASA logo](casa-logo.png).
+![CASA logo](casa-logo.png)
+
+SPOSE is proudly supported by [CASA - Cyber-Security in the Age of Large-Scale Adversaries](https://casa.rub.de/).
