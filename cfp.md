@@ -17,7 +17,7 @@ Topics of interest include, but are not limited to:
 
 We particularly welcome papers explicitly translating findings and insights from organizational and behavioral theory into the concrete design and engineering of technical security and privacy mechanisms as well as papers evaluating, assessing, or scrutinizing existing security and privacy technologies against actual organizational and behavioral theories and/or givens from the practice. Papers providing a clear engineering contribution based on non-technical insights are especially welcome and will be particularly recognized in the review process. Papers without relation to concrete technologies are not excluded in general. Authors of such papers are, however, explicitly encouraged to sketch foreseen connections to and implications for the engineering domain.
 
-Besides regular (max. 16 pages) and short (max. 8 pages) papers, we also invite practical demonstrations, intermediate reports, and mini-tutorials on respective technologies currently under development. Such contributions should be consciously tailored to inspire more in-depth discussions. Submissions falling under this category should describe the proposed contribution to the workshop in no more than 4 pages and be explicitly marked as such during the submission process.
+Besides regular (max. 18 pages) and short (max. 8 pages) papers, we also invite practical demonstrations, intermediate reports, and mini-tutorials on respective technologies currently under development. Such contributions should be consciously tailored to inspire more in-depth discussions. Submissions falling under this category should describe the proposed contribution to the workshop in no more than 4 pages and be explicitly marked as such during the submission process.
 Authors of accepted papers must guarantee that their papers will be presented at the conference.
 
 ## Submission Guidelines & Types of Papers
@@ -32,7 +32,7 @@ Authors of accepted papers must guarantee that their papers will be presented at
 
 **Submissions must be made via Easychair at [https://easychair.org/conferences/?conf=spose2022](https://easychair.org/conferences/?conf=spose2022)**
 
-Submissions must follow the [original LNCS format](http://www.springeronline.com/lncs) (also available as an [Overleaf-template](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)) with a page limit of 16 pages (incl. references) for full papers, 8 pages (incl. references) for short papers, and 6 pages (incl. references) for demos, mini-tutorials, etc. These page limits exclude possible appendices. Submissions must be submitted in **anonymized / blinded** form.
+Submissions must follow the [original LNCS format](http://www.springeronline.com/lncs) (also available as an [Overleaf-template](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)) with a page limit of 18 pages (incl. references) for full papers, 8 pages (incl. references) for short papers, and 6 pages (incl. references) for demos, mini-tutorials, etc. These page limits exclude possible appendices. Submissions must be submitted in **anonymized / blinded** form.
 
 
 ## Important Dates
