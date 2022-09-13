@@ -12,7 +12,7 @@ Workshop Chairs: Angela Sasse, Frank Pallas, Jörg Pohle
 Chair:  Angela Sasse - Ruhr-Universität Bochum, Germany
 
 * 09:00 - 09:45: **Keynote I: From Securing Compliance to Enduring Incompliance - The Ambigious Role of Security Responsibles.** -- [Laura Kocksch](https://vbn.aau.dk/en/persons/153820), Aalborg University Copenhagen, Denmark
-* 09:45 - 10:30: **Keynote II: title tba.** -- [Joseph Da Silva](https://pure.royalholloway.ac.uk/portal/en/persons/joseph-da-silva(f33f56d7-23e2-4ae3-8c9c-2f1b03e8eef4).html), Royal Holloway, University of London, UK
+* 09:45 - 10:30: **Keynote II: Exploring the purpose and practice of the CISO role in commercial organisations through lenses of identity, power and masculinity.** -- [Joseph Da Silva](https://pure.royalholloway.ac.uk/portal/en/persons/joseph-da-silva(f33f56d7-23e2-4ae3-8c9c-2f1b03e8eef4).html), Royal Holloway, University of London, UK
 * 10:30 - 11:00: **Discussion**
 
 ## Coffee Break -- 11:00-11:30
