@@ -1,7 +1,7 @@
 
 # Program tbd
 
-SPOSE 2022 will take place (in hybrid mode, hoping for significant physical attendance) in conjunction with [ESORICS 2022](https://esorics2022.compute.dtu.dk/) in Copenhagen, Denmark on Sept. 30, 09:00 - 13:00.
+SPOSE 2022 will take place (in hybrid mode, hoping for significant physical attendance) in conjunction with [ESORICS 2022](https://esorics2022.compute.dtu.dk/) in Copenhagen, Denmark on Sept. 30, 09:00 - 13:30.
 
 Workshop Chairs: Angela Sasse, Frank Pallas, Jörg Pohle
 
